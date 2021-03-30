@@ -12,11 +12,11 @@ To find the root cause or insights to where the former issues lie, a statistical
 
 ## Linear Regression to Predict MPG
 
-In creating a linear regression model, it was determined the null hypothesis would suggest either one of the following characteristics or variables of MechaCar’s prototypes: vehicle length, vehicle weight, spoiler angle, ground clearance, All-wheel drive (AWD) is_ not_ related to the prototype’s Miles Per Gallon (MPG). 
+In creating a linear regression model, it was determined the null hypothesis would suggest either one of the following characteristics or variables of MechaCar’s prototypes: vehicle length, vehicle weight, spoiler angle, ground clearance, all-wheel drive (AWD) is_ not_ related to the prototype’s miles per gallon (MPG). 
 
 In result, having relatively small p-values, it is safe to say that both vehicle length and ground clearance provided a non-random amount of variance to the MPG values, thusly, showing a level of (statistical) significance or strong correlation between the two coefficients. The former conclusion can also be gathered from the intercept values, as it would suggest there are, in fact, additional factors influencing the variance of _or_ in miles per gallon.
 
-In looking at our p-value for the linear regression of 5.35 x 10-11  it is noted to be smaller than the assume pre-determined threshold (or assumed significance level) of 0.05 percent, given way to enough evidence to reject the null hypothesis and conclude the slope of the model is not zero. 
+In looking at our p-value for the [linear regression](images/summary_linear_regression.png) of 5.35 x 10-11  it is noted to be smaller than the assume pre-determined threshold (or assumed significance level) of 0.05 percent, given way to enough evidence to reject the null hypothesis and conclude the slope of the model is not zero. 
 
 While, much can be gathered from the linear model, in terms of statistical significance, it is not ideal to in predicting the MPG of MechaCar prototypes effectively, as (1) there are many factors that are contributing to the variance in miles per gallon, aforementioned; and (2) the r-squared value of the model is 0.7149, meaning about **70 percent (%)** of the predictions _**would**_ be correct.
                   
