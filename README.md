@@ -53,32 +53,24 @@ To determine or _“test”_  the null hypothesis: if each individually lot, as 
 
 With a significance level of 0.05 percent for each test, the calculated p-value was notably, higher. In this regard, the means are _not_ statistically different (from the population mean) and leaves no sufficient evidence to reject the null hypothesis. Simply, the means are statistically similar. 
 
-These findings can be seen in the visuals, below:
+These findings can be seen in the visuals, below (clockwise, order) and indiviually, [here.](https://github.com/SoWhitIs/MechaCar_Statistical_Analysis/tree/main/images):
 
-<p align="center"> <b>Image 1: Overall t-Test, Significance Level: 0.05%, p-value = 0.06028</b> 
+* Image 1: Overall t-Test
+
+* Image 2: Lot 1 t-Test
+ 
+* Image 3: Lot 2 t-Test
+
+* Image 4: Lot 3 t-Test
+
+<p align="center"> <b>T-Tests Results</b> 
  </p>
 <p align="center">
-  <img align="center" src="images/one_sample_t_test.png">
+ <img align="center" src="images/summary_layout.png">
  </p>
 
-<p align="center"> <b>Image 2: Lot 1 t-test, Significance Level: 0.05%, p-value = 1</b>
- </p>
- <p align="center">
-<img align="center" src="images/Lot_1_t-test.png">
- </p>
 
-<p align="center"> <b>Image 3: Lot 2 t-test, Significance Level: 0.05%, p-value: p-value = 0.6072<b>
- </p>
- <p align="center"> 
- <img align="center" src="images/Lot_2_t-test.png">
- </p>
 
-<p align="center"> <b>Image 4: Lot 3 t-test, Significance Level: 0.05%, p-value = 0.04168</b>
- </p>
- <p align="center">
- <img align="center" src="images/Lot_3_t-test.png">
- </p>
- 
 ## Study Design: MechaCar vs Competition 
 
 While, we can look internally, like the test we conducted above, to gain further insights into what would translate to success in  forthcoming product releases, it is, too,  best to collect information externally for a well-rounded analysis—namely, a comparison study between MechaCar and its competitor(s).
