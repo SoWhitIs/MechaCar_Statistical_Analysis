@@ -16,11 +16,11 @@ In creating a linear regression model, it was determined the null hypothesis wou
 
 In result, having relatively small p-values, it is safe to say that both vehicle length and ground clearance provided a non-random amount of variance to the MPG values, thusly, showing a level of (statistical) significance or strong correlation between the two coefficients. The former conclusion can also be gathered from the intercept values, as it would suggest there are, in fact, additional factors influencing the variance of _or_ in miles per gallon.
 
-In looking at our p-value for the linear regression of 5.35 x 10-11   it is noted to be smaller than the assume pre-determined threshold (or assumed significance level) of 0.05 percent, given way to enough evidence to reject the null hypothesis and conclude the slope of the model is not zero. 
+In looking at our p-value for the linear regression of 5.35 x 10-11  it is noted to be smaller than the assume pre-determined threshold (or assumed significance level) of 0.05 percent, given way to enough evidence to reject the null hypothesis and conclude the slope of the model is not zero. 
 
 While, much can be gathered from the linear model, in terms of statistical significance, it is not ideal to in predicting the MPG of MechaCar prototypes effectively, as (1) there are many factors that are contributing to the variance in miles per gallon, aforementioned; and (2) the r-squared value of the model is 0.7149, meaning about **70 percent (%)** of the predictions _**would**_ be correct.
                   
-<p align="center"> <b>Linear Regression Model Results</b> 
+<p align="center"> <b><i>Linear Regression Model Results</b></i> 
  </p>
 <p align="center">
  <img align="center" src="images/summary_p-value_r_squared_value_D1.png">
@@ -29,7 +29,7 @@ While, much can be gathered from the linear model, in terms of statistical signi
 ## Summary Statistics on Suspension
 Keeping in mind design specifications for MechaCar should not exceed no more that 100 pounds per square inch (PSI), analysis of the suspension coil data variance, overall, shows, that, _yes_ current design specifications are met at roughly 62 PSI. 
 
-<p align="center"> <b>Total Summary, PSI (Pound Per Square Inch)</b> 
+<p align="center"> <i><b>Total Summary, PSI (Pound Per Square Inch)</b></i>
  </p>
 <p align="center">
  <img align="center" src="images/total_summary_PSI.png">
@@ -40,7 +40,7 @@ Contrarily, in exploring the variance by Lot, we see there is a differentiation 
 
 Specifically, while Lots 1 and 2, meet the design specification at 0.9795918 PSI and 7.4693878 PSI, respectively, Lot 3 does not meet design specification with a variance exceedingly well above requirements at roughly 170 pounds per square inch.
 
-<p align="center"> <b>Per Lot Summary, PSI (Pound Per Square Inch)</b> 
+<p align="center"> <i><b>Per Lot Summary, PSI (Pound Per Square Inch)</b></i> 
  </p>
 <p align="center"> 
  <img align="center" src="images/lot_summaryPSI.png">
@@ -63,7 +63,7 @@ These findings can be seen in the visuals, below (clockwise order) and indiviual
 
 * Image 4: Lot 3 t-Test
 
-<p align="center"> <b>T-Tests Results</b> 
+<p align="center"> <i><b>T-Tests Results</b></i>
  </p>
 <p align="center">
  <img align="center" src="images/summary_layout.png">
