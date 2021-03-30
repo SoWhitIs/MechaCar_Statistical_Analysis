@@ -38,7 +38,7 @@ Keeping in mind design specifications for MechaCar should not exceed no more tha
   
 Contrarily, in exploring the variance by Lot, we see there is a differentiation between the three. 
 
-Specifically, while Lots 1 and 2, meet the design specification at 0.9795918 PSI and 7.4693878 PSI, respectively, Lot 3 does not meet design specification with a variance exceedingly well above requirements at roughly 170 pounds per square inch.
+Specifically, while Lots 1 and 2, meet the design specifications at 0.9795918 PSI and 7.4693878 PSI, respectively, Lot 3 does not meet design specifications with a variance exceedingly well above requirements at roughly 170 pounds per square inch.
 
 <p align="center"> <i><b>Per Lot Summary, PSI (Pound Per Square Inch)</b></i> 
  </p>
