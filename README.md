@@ -89,7 +89,7 @@ Questions that can be addressed if we, too, consider external factors as the pan
 
 * The City versus the rural and suburban areas
 
-* Have sales increased or decreased dure the pandemic? 
+* Have sales increased or decreased during the pandemic? 
 
 Additionally, we can rely on  A/B testing to decipher price points that would position MechaCar competitively to that of manufacturers with the same offerings. 
 
