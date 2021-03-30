@@ -24,6 +24,7 @@ While, much can be gathered from the linear model, in terms of statistical signi
   <i><b>Linear Regression Model Results</b></i> 
  <img align="center" src="images/summary_p-value_r_squared_value_D1.png">
  </p>
+ 
 ## Summary Statistics on Suspension
 Keeping in mind design specifications for MechaCar should not exceed no more that 100 pounds per square inch (PSI), analysis of the suspension coil data variance, overall, shows, that, _yes_ current design specifications are met at roughly 62 PSI. 
 
@@ -32,11 +33,9 @@ Keeping in mind design specifications for MechaCar should not exceed no more tha
  <img align="center" src="images/total_summary_PSI.png">
  </p>
 
-  
 Contrarily, in exploring the variance by Lot, we see there is a differentiation between the three. 
 
 Specifically, while Lots 1 and 2, meet the design specification at 0.9795918 PSI and 7.4693878 PSI, respectively, Lot 3 does not meet design specification with a variance exceedingly well above requirements at roughly 170 pounds per square inch.
-
 
 <p align="center">
   <i><b>Per Lot Summary, PSI (Pound Per Square Inch)</b></i> 
