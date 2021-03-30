@@ -53,7 +53,7 @@ To determine or _“test”_  the null hypothesis: if each individually lot, as 
 
 With a significance level of 0.05 percent for each test, the calculated p-value was notably, higher. In this regard, the means are _not_ statistically different (from the population mean) and leaves no sufficient evidence to reject the null hypothesis. Simply, the means are statistically similar. 
 
-These findings can be seen in the visuals, below (clockwise, order) and indiviually, [here.](https://github.com/SoWhitIs/MechaCar_Statistical_Analysis/tree/main/images):
+These findings can be seen in the visuals, below (clockwise order) and indiviually, [here](https://github.com/SoWhitIs/MechaCar_Statistical_Analysis/tree/main/images):
 
 * Image 1: Overall t-Test
 
