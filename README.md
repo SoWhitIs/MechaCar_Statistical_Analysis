@@ -8,7 +8,7 @@ To find the root cause or insights to where the former issues lie, a statistical
 ## Resources 
 
 * Data Source(s): [MechaCar_mpg.csv](https://github.com/SoWhitIs/MechaCar_Statistical_Analysis/blob/50d310dd8bead3f4418d4d4e1287b152a3aed759/MechaCar_mpg.csv) , [Suspension_Coil.csv](https://github.com/SoWhitIs/MechaCar_Statistical_Analysis/blob/50d310dd8bead3f4418d4d4e1287b152a3aed759/Suspension_Coil.csv)
-* Software/Tools: RStudio | Language(s): R| Libraries/Packages: JSON Lite, Tidyverse | VS Code 1.54.3
+* Software/Tools: RStudio | Language(s): R | Libraries/Packages: JSON Lite, Tidyverse | VS Code 1.54.3
 
 ## Linear Regression to Predict MPG
 
