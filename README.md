@@ -93,6 +93,8 @@ Questions that can be addressed if we, too, consider external factors as the pan
 
 Additionally, we can rely on  A/B testing to decipher price points that would position MechaCar competitively to that of manufacturers with the same offerings. 
 
+---
+
 #### Author 
 
 _Whitney D. Gardner_
